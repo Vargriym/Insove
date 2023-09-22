@@ -32,6 +32,10 @@ It offers a user-friendly interface where you can easily browse through a wide r
 
 Implemented responsive design techniques, resulting in a mobile-friendly website that enhanced accessibility and convenience for users.
 
+## Design File
+
+https://templatesjungle.com/downloads/insove-medical-healthcare-free-figma-website-template
+
 ## Tech stack
 
 - Tailwind
