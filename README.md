@@ -19,8 +19,8 @@
 
 <br/>
 
-## Live demo
-https://react-online-groceries-store.vercel.app
+## View Live
+https://insove-modern.vercel.app
 
 <!-- ABOUT THE PROJECT -->
 
