@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="typing test screenshot" src="https://github.com/Vargriym/Insove/blob/master/cover.png">
+    <img alt="typing test screenshot" src="https://github.com/Vargriym/Insove/blob/master/site-img.jpg">
     <h1 align="center">Modern Healthcare Landing Page</h1>
   </a>
 </p>
