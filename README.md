@@ -26,7 +26,7 @@ https://insove-modern.vercel.app
 
 ## Introduction
 
-Insove’s website features dynamic images and color to engage the viewer. From the carousel beneath the header to other images throughout the site, the consistent use of rich, colorful photography helps promote a sense of excitement and optimism.
+Insove’s website features dynamic images and color to engage the viewer. From the header to other images throughout the site, the consistent use of rich, colorful photography helps promote a sense of excitement and optimism.
 ## Key Achievements
 
 Implemented responsive design techniques, resulting in a mobile-friendly website that enhanced accessibility and convenience for users.
