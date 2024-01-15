@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="#introduction"><strong>Introduction</strong></a> ·
-    <a href="#Key-Achievements"><strong>Key Achievements</strong></a> ·
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#introduction"><strong>Introduction</strong></a> -
+    <a href="#Key-Achievements"><strong>Key Achievements</strong></a> -
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> -
     <a href="#View-Live"><strong>Live Demo</strong></a>
 
   
