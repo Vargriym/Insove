@@ -1,5 +1,3 @@
-document.body.style.zoom="90%"
-
 // mobile nav
 const mobileNav = document.querySelector(".mnav");
 const closeBtn = document.querySelector(".mnav__close-btn");
