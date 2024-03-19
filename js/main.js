@@ -40,7 +40,7 @@ faqItems.forEach((item) => {
 
 // scroll animations
 AOS.init({
-  duration: 500,
+  duration: 300,
   once: true,
   mirror: false,
   easing: "ease-in-out"
